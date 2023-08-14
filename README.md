@@ -1,6 +1,7 @@
 # STM32_DMA_function
 
 Target board: NUCLEO-F446ZE
+I2C Testboard: HTU21D-TE
 
 1. I2C_TX DMA mode
 2. I2C_RX DMA mode
